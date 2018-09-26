@@ -27,7 +27,7 @@ public class SimulatedAnealing {
     public static void main(String[] args) {
         // TODO code application logic here
         double x1 , x2, T, current, next, a1, a2, E, Tawal,T2;
-        T=200;
+        T=300;
         T2=0.000385;
         Tawal=T;
         x1= generate();
